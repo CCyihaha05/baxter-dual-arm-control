@@ -1,0 +1,21 @@
+# ROS
+devel/
+build/
+install/
+logs/
+*.bag
+*.pcap
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
